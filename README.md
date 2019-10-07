@@ -1,0 +1,1 @@
+Tässä harjoituksessa tutustutaan Reduxin käyttöön Reactissa. Esimerkki on yksinkertainen, eikä näin yksinkertaisessa tilanteessa todellisuudessa turvauduttaisi Reduxiin. Harjoitteluun tämä esimerkki kuitenkin toimii!
